@@ -34,3 +34,6 @@ ctenidium
 Arales
 Pam
 foolhardihood
+pinene
+supersubstantiate
+pinchedness
