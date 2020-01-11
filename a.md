@@ -1,3 +1,6 @@
+pigmentose
+keelman
+harfang
 fattiness
 mixableness
 unamo
